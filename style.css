@@ -1,0 +1,26 @@
+div{ overflow: scroll;  }
+table{border: solid black;
+width: 200vw;
+height: 5vh;
+background-color: black;
+color: aliceblue;
+text-decoration: none;}
+h1{color: green;text-align: center;}
+.a{
+    h2{color: red;}
+    width: 40vh;
+    height: 100vh;
+    overflow: scroll;
+    background-color: black;
+    color: white;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{color: red;
+    text-decoration: none;
+background-color: rgb(255, 255, 255);
+
+}
